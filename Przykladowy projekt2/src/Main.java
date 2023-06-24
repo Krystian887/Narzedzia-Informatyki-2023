@@ -7,6 +7,6 @@ public class Greetings {
         System.out.print("Podaj swoje imię: ");
         String name = scanner.nextLine();
 
-        System.out.println("Witaj, " + name + "! Super ze jesteś");
+        System.out.println("Witaj, " + name + "! Miło cię poznać.");
     }
 }
